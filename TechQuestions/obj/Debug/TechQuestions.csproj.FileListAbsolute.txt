@@ -1,0 +1,5 @@
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\TechQuestions\TechQuestions\bin\Debug\TechQuestions.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\TechQuestions\TechQuestions\bin\Debug\TechQuestions.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\TechQuestions\TechQuestions\bin\Debug\TechQuestions.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\TechQuestions\TechQuestions\obj\Debug\TechQuestions.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\TechQuestions\TechQuestions\obj\Debug\TechQuestions.pdb
